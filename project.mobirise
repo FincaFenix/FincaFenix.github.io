@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "FincaFenixGardens.html",
+    "currentPage": "fincafenixrenovation.html",
     "theme": {
       "name": "hotelm4",
       "title": "HotelM4",
@@ -48,7 +48,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 241,
+    "uniqCompNum": 247,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1803,7 +1803,7 @@
     "alora.html": {
       "settings": {
         "title": "Alora",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2460,7 +2460,7 @@
     "Adventures.html": {
       "settings": {
         "title": "Adventures1",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -3340,7 +3340,7 @@
     "museumalora.html": {
       "settings": {
         "title": "Museum Alora",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -4178,7 +4178,7 @@
     "ardales.html": {
       "settings": {
         "title": "Ardales",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -4923,7 +4923,7 @@
     "cuevadedonatrinidad.html": {
       "settings": {
         "title": "Cueva de Doña Trinidad",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -5654,7 +5654,7 @@
     "bobastroruins.html": {
       "settings": {
         "title": "Bobastro Ruins",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -6301,7 +6301,7 @@
     "ronda.html": {
       "settings": {
         "title": "Ronda",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -7077,7 +7077,7 @@
     "alhambrapalaces.html": {
       "settings": {
         "title": "Alhambra",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -7984,7 +7984,7 @@
     "alcazabamalaga.html": {
       "settings": {
         "title": "Alcazaba Castle Malaga",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -8711,7 +8711,7 @@
     "AboutUs.html": {
       "settings": {
         "title": "About Us",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -8812,7 +8812,7 @@
               }
             }
           },
-          "_customHTML": "<section class=\"extContent\" group=\"Additional Blocks\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"25\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"25\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Reverse Content\" name=\"reverseContent\">\n\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#716c80\" condition=\"overlay&&bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay&&bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n\n\n    <div class=\"container align-center\">\n        <div class=\"row\">\n            <div class=\"col-lg-6 col-md-12 align-center\" mbr-class=\"{'order-2':reverseContent}\">\n                <img src=\"@PROJECT_PATH@/assets/images/screen-shot-2020-02-13-at-10.08.46-841x560.png\" alt title>\n\n                <h1 class=\"mbr-section-title mbr-regular pt-5 align-left mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Solutions For Your Business</h1>\n                <h3 class=\"mbr-section-subtitle align-left align-left mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubTitle\">Lorem ipsum dolor sit amet</h3>\n                <p class=\"mbr-text mbr-light pt-4 align-left mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    A fully maintained and equipped separate kitchen and airconditioning. Dedicated guest WIFI and television as standard to ensure your connection to the outside world is there if you want it. <br><br>The swimming pool is for your exclusive use whilst staying at Finca Fenix along with the professional gymoire. <br><br>Being just 40 minutes from the airport and the centre of the Malaga where there is lots to see and do in one direction, the other takes you into the mountains and the world famous Caminto del Reyin just 30 minutes. <br><br>Everything you want to see and do is generally within an hours drive or train journeyso for a little inspiration and help fill your holiday with experiences see the <a href=\"Adventures.html\">Adventures</a> page for suggestions. The house sits in more than 6000sqm of magnificently landcaped grounds surrounded on all sides by groves and other interesting views of the mountains. <br><br>We look forward to welcoming you Finca Fenix. <br>Mark and Kim <br>(Housekeepers to Clifford, Boris and Gregor) \n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"align-left mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n\n            </div>\n\n            <div class=\"col-md-12 col-lg-6 m-auto\">\n\n\n\n                <h1 class=\"mbr-section-title mbr-regular pt-5 align-left mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Innovative Technology</h1>\n                <h3 class=\"mbr-section-subtitle align-left align-left mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubTitle\">Lorem ipsum dolor sit amet</h3>\n                <p class=\"mbr-text mbr-light pt-4 align-left mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Clifford, Boris and Gregor would like to welcome you to their lovely home positioned on the edge of the Pueblo Blanco Alora in the heart of the Sierras de Andalucia.\n<br><br>\nSince taking on Finca Fenix more than twenty years ago we have carefully and responsibly renovated and redeveloped the house and grounds into a beautiful rural retreat which boasts unparalleled privacy.\n<br><br>\nWhilst staying here with us you will enjoy the privacy you desire and if you need help or information one of our housekeepers is generally on hand pottering about to ensure your stay is exactly what you want.\n\nThe self contained fully serviced apartment has it’s own private entrance and terraces, two ensuite bedrooms.&nbsp;</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"align-left  mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n\n                <div class=\"pt-5\">\n                    <img src=\"@PROJECT_PATH@/assets/images/screen-shot-2020-02-13-at-10.06.01-1012x705.png\" alt title>\n                </div>\n            </div>\n\n\n        </div>\n\n\n\n    </div>\n</section>",
+          "_customHTML": "<section class=\"extContent\" group=\"Additional Blocks\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"25\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"25\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Reverse Content\" name=\"reverseContent\">\n\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#716c80\" condition=\"overlay&&bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay&&bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n\n\n    <div class=\"container align-center\">\n        <div class=\"row\">\n            <div class=\"col-lg-6 col-md-12 align-center\" mbr-class=\"{'order-2':reverseContent}\">\n                <img src=\"@PROJECT_PATH@/assets/images/screen-shot-2020-02-13-at-10.08.46-841x560.png\" alt title>\n\n                <h1 class=\"mbr-section-title mbr-regular pt-5 align-left mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Solutions For Your Business</h1>\n                <h3 class=\"mbr-section-subtitle align-left align-left mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubTitle\">Lorem ipsum dolor sit amet</h3>\n                <p class=\"mbr-text mbr-light pt-4 align-left mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    A fully maintained and equipped separate kitchen and airconditioning. Dedicated guest WIFI and television as standard to ensure your connection to the outside world is there if you want it. <br><br>The swimming pool is for your exclusive use whilst staying at Finca Fenix along with the professional gymoire. <br><br>Being just 40 minutes from the airport and the centre of the Malaga where there is lots to see and do in one direction, the other takes you into the mountains and the world famous Caminto del Reyin just 30 minutes. <br><br>Everything you want to see and do is generally within an hours drive or train journeyso for a little inspiration and help fill your holiday with experiences see the <a href=\"Adventures.html\">Adventures</a> page for suggestions. The house sits in more than 6000sqm of magnificently landcaped grounds surrounded on all sides by groves and other interesting views of the mountains. <br><br>We look forward to welcoming you Finca Fenix. <br>Mark and Kim <br>(Housekeepers to Clifford, Boris and Gregor) \n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"align-left mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n\n            </div>\n\n            <div class=\"col-md-12 col-lg-6 m-auto\">\n\n\n\n                <h1 class=\"mbr-section-title mbr-regular pt-5 align-left mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Innovative Technology</h1>\n                <h3 class=\"mbr-section-subtitle align-left align-left mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubTitle\">Lorem ipsum dolor sit amet</h3>\n                <p class=\"mbr-text mbr-light pt-4 align-left mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Clifford, Boris and Gregor would like to welcome you to their lovely home positioned on the edge of the Pueblo Blanco Alora in the heart of the Sierras de Andalucia.\n<br><br>\nSince taking on Finca Fenix more than twenty years ago we have carefully and responsibly renovated and redeveloped the house and grounds into a beautiful rural retreat which boasts unparalleled privacy. Renovation pictures can be viewed here.<br><br>\nWhilst staying here with us you will enjoy the privacy you desire and if you need help or information one of our housekeepers is generally on hand pottering about to ensure your stay is exactly what you want.\n\nThe self contained fully serviced apartment has it’s own private entrance and terraces, two ensuite bedrooms.&nbsp;</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"align-left  mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n\n                <div class=\"pt-5\">\n                    <img src=\"@PROJECT_PATH@/assets/images/screen-shot-2020-02-13-at-10.06.01-1012x705.png\" alt title>\n                </div>\n            </div>\n\n\n        </div>\n\n\n\n    </div>\n</section>",
           "_anchor": "extContent18-4o",
           "_isUserblock": true,
           "_sourceTheme": "hotelm4",
@@ -9322,7 +9322,7 @@
     "Contact.html": {
       "settings": {
         "title": "Contact",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -9943,7 +9943,7 @@
     "hikingandcycling.html": {
       "settings": {
         "title": "Hiking and Cycling Routes",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -10646,7 +10646,7 @@
     "rockclimbing.html": {
       "settings": {
         "title": "Rock Climbing",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -11363,7 +11363,7 @@
     "testamonials.html": {
       "settings": {
         "title": "Testamonials",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -12365,7 +12365,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -12965,7 +12965,7 @@
     "FincaFenixApartmentPictures.html": {
       "settings": {
         "title": "Finca Fenix Apartment Pictures",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -14119,7 +14119,7 @@
     "FincaFenixGardens.html": {
       "settings": {
         "title": "Finca Fenix Gardens",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -15605,6 +15605,1134 @@
           "_once": "footer",
           "_params": {},
           "_anchor": "footer2-6n"
+        }
+      ]
+    },
+    "fincafenixrenovation.html": {
+      "settings": {
+        "title": "Renovation of Finca Fenix",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            "a.nav-link:focus": {
+              "color": "@itemsHoverColor !important"
+            },
+            ".navbar": {
+              "min-height": "77px",
+              "transition": "all .3s",
+              "background": "@menuBgColor",
+              "& when (@transparent)": {
+                "background": "none"
+              },
+              "&.opened": {
+                "transition": "all .3s",
+                "background": "@menuBgColor !important"
+              },
+              ".dropdown-item": {
+                "padding": ".3rem 1.5rem"
+              },
+              ".navbar-collapse": {
+                "-webkit-justify-content": "flex-start",
+                "justify-content": "flex-start",
+                "z-index": "1",
+                "-webkit-flex-basis": "auto",
+                "flex-basis": "auto",
+                "-webkit-flex-grow": "0",
+                "flex-grow": "0",
+                "& when not (@showItems)": {
+                  "display": "none !important"
+                }
+              },
+              "&.collapsed": {
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  },
+                  "@media (min-width: 992px)": {
+                    "&:not(.navbar-short) .navbar-collapse when (@showLogo)": {
+                      "max-height": "~\"calc(98.5vh - @{logoSize}rem)\""
+                    }
+                  }
+                },
+                ".navbar-collapse": {
+                  "-webkit-flex-basis": "100%",
+                  "flex-basis": "100%"
+                },
+                ".nav-link:hover::before": {
+                  "width": "0 !important"
+                },
+                ".dropdown-menu": {
+                  "background": "transparent !important",
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item": {
+                    "border": "none !important",
+                    "&:after": {
+                      "right": "auto"
+                    }
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": ".25rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "55%"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": ".15rem 1.5rem",
+                  "text-align": "center"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-top": ".5rem",
+                  "padding-bottom": ".5rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".navbar-collapse": {
+                  "-webkit-flex-basis": "100%",
+                  "flex-basis": "100%"
+                },
+                ".dropdown-menu": {
+                  "background": "transparent !important",
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": ".25rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "55%"
+                  }
+                },
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3.8rem !important"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": ".15rem 1.5rem",
+                  "text-align": "center"
+                },
+                ".navbar-brand": {
+                  "-webkit-flex-shrink": "initial",
+                  "flex-shrink": "initial",
+                  "word-break": "break-word"
+                },
+                ".navbar-toggler": {},
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-top": ".5rem",
+                  "padding-bottom": ".5rem"
+                }
+              },
+              "&.navbar-short": {
+                "background": "@menuBgColor !important",
+                "min-height": "60px",
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3rem !important"
+                  }
+                },
+                ".navbar-brand": {
+                  "padding": "0"
+                }
+              }
+            },
+            ".navbar-brand": {
+              "display": "flex",
+              "-webkit-flex-shrink": "0",
+              "flex-shrink": "0",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "margin-right": "0",
+              "padding": "0",
+              "transition": "all .3s",
+              "word-break": "break-word",
+              "z-index": "1",
+              ".navbar-caption-wrap": {
+                "display": "flex"
+              },
+              ".navbar-caption": {
+                "line-height": "inherit !important",
+                "font-weight": "normal"
+              },
+              ".navbar-logo a": {
+                "outline": "none"
+              }
+            },
+            ".dropdown-item.active,.dropdown-item:active": {
+              "background-color": "transparent"
+            },
+            ".navbar-expand-lg .navbar-nav .nav-link": {
+              "padding": "0"
+            },
+            ".nav-dropdown .link.dropdown-toggle": {
+              "margin-right": "1.667em",
+              "&[aria-expanded=\"true\"]": {
+                "margin-right": "0",
+                "padding": "0.667em 1.667em"
+              }
+            },
+            ".navbar.navbar-expand-lg .dropdown": {
+              ".dropdown-menu": {
+                "background": "transparent",
+                ".dropdown-submenu": {
+                  "margin": "0",
+                  "left": "100%",
+                  "top": "30%"
+                }
+              }
+            },
+            ".navbar .dropdown.open > .dropdown-menu": {
+              "display": "block"
+            },
+            "ul.navbar-nav": {
+              "-webkit-flex-wrap": "wrap",
+              "flex-wrap": "wrap"
+            },
+            ".navbar-buttons": {
+              "text-align": "center"
+            },
+            "button.navbar-toggler": {
+              "outline": "none",
+              "width": "31px",
+              "height": "20px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "position": "relative",
+              "-webkit-align-self": "center",
+              "align-self": "center",
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".navbar-dropdown": {
+              "padding": ".5rem 1rem",
+              "& when (@sticky)": {
+                "position": "fixed"
+              }
+            },
+            "a.nav-link": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "-webkit-justify-content": "center",
+              "justify-content": "center",
+              "position": "relative"
+            },
+            ".mbr-iconfont": {
+              "font-size": "1.5rem",
+              "padding-right": ".5rem"
+            },
+            ".icons-menu": {
+              "-webkit-flex-wrap": "wrap",
+              "flex-wrap": "wrap",
+              "display": "flex",
+              "-webkit-justify-content": "center",
+              "justify-content": "center",
+              "padding-left": "1rem",
+              "text-align": "center",
+              "span": {
+                "font-size": "20px",
+                "color": "#ffffff"
+              }
+            },
+            ".nav-link:hover, .icons-menu .mbr-iconfont:hover": {
+              "color": "@itemsHoverColor !important"
+            },
+            ".dropdown-item:hover": {
+              "color": "@dropdownItemsHover !important"
+            },
+            ".nav-item": {
+              ".nav-link::before": {
+                "position": "absolute",
+                "content": "''",
+                "height": "2px",
+                "bottom": "-0.5rem",
+                "width": "0",
+                "left": "-1rem",
+                "background": "@itemsHoverColor",
+                "transition": "width 0.3s ease-in"
+              }
+            },
+            ".dropdown-menu": {
+              "padding": "0",
+              "transition": "top .3s"
+            },
+            ".nav-item .nav-link": {
+              "letter-spacing": "1px"
+            },
+            "@media (min-width: 992px)": {
+              ".navbar-expand-lg": {
+                "-webkit-justify-content": "space-around",
+                "justify-content": "space-around"
+              },
+              ".nav-link:hover::before": {
+                "width": "calc(100% ~'+' 2rem)"
+              },
+              "& when not (@collapsed)": {
+                ".dropdown-menu": {
+                  "top": "100%"
+                },
+                ".dropdown-item": {
+                  "border-bottom": "1px solid darken(@dropdownBg, 30%)",
+                  "box-shadow": "0px 2px 5px @dropdownBg",
+                  "background": "@dropdownBg !important",
+                  "&:hover": {
+                    "background": "darken(@dropdownBg, 10%) !important"
+                  }
+                },
+                ".nav-item.open": {
+                  ".nav-link::before": {
+                    "left": "calc(1.667em ~'-' 1rem)",
+                    "bottom": "0.538px",
+                    "width": "calc(100% ~'-' 3.334em ~'+' 2rem)"
+                  }
+                }
+              },
+              "& when (@sticky)": {
+                ".navbar-short .dropdown-menu": {
+                  "top": "100%"
+                }
+              }
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu1 menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"7\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#ffffff\" condition=\"showItems\">\n        <input type=\"color\" title=\"Dropdown BG Color\" name=\"dropdownBg\" value=\"#ffffff\" condition=\"showItems\">\n        <input type=\"color\" title=\"Dropdown Items Hover Color\" name=\"dropdownItemsHover\" value=\"#878787\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" condition=\"showItems\">\n        <select title=\"Social Icons\" name=\"iconsAmount\" condition=\"showIcons && showItems\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\">\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n\n    <nav class=\"navbar navbar-dropdown\" mbr-class=\"{'navbar-fixed-top':sticky,\n                     'navbar-expand-lg':!collapsed,\n                     'collapsed':collapsed}\">\n        <div class=\"navbar-brand\">\n            <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                \n                    <img src=\"@PROJECT_PATH@/assets/images/fincafenix1bw-302x122.jpg\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                \n            </span>\n            <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap mbr-section-btn\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\"></a></span>\n        </div>\n        <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n      <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-menu class=\"navbar-nav nav-dropdown mbr-section-btn\" mbr-theme-style=\"display-7\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-warning\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Home\n                    </a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-warning\" href=\"gymoir.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Gymoir</a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-warning\" href=\"Adventures.html#footer1-o\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        Adventures</a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-warning\" href=\"https://my.matterport.com/show/?m=ZkjUpuoNFVJ\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\">3D Virtual Tour</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-warning\" href=\"testamonials.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Testamonials</a></li><li class=\"nav-item\"><a class=\"nav-link link text-warning\" href=\"page13.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        About Us\n                    </a></li></ul>\n            <div class=\"icons-menu\" mbr-if=\"showIcons\">\n              <a href=\"https://mobirise.com\" target=\"_blank\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-mobile\"></span>\n              </a>\n              <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 1\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-letter\"></span>\n              </a>\n              <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 2\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-letter\"></span>\n              </a>\n              <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 3\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-letter\"></span>\n              </a>\n              <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 4\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-letter\"></span>\n              </a>\n              <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 5\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-letter\"></span>\n              </a>\n            </div>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(230, 200, 171);\"></span>\n                    Contact Us</a></div>\n      </div>\n    </nav>\n</section>",
+          "_cid": "rzMgHGam4n",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu1-6p"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "1px",
+              "margin-bottom": "1.5rem",
+              "color": "#d8d7d7"
+            },
+            ".first-column .mbr-text": {
+              "margin": "0"
+            },
+            ".icons-wrapper ul": {
+              "margin": "0",
+              "padding": "0",
+              "li": {
+                "margin-right": "1.25rem",
+                "display": "inline-block",
+                ".mbr-iconfont": {
+                  "color": "@iconsColor",
+                  "font-size": "1.5rem",
+                  "&:hover": {
+                    "color": "@iconsHoverColor"
+                  }
+                }
+              }
+            },
+            ".form-group": {
+              "max-width": "55%"
+            },
+            ".form-group, .input-group-btn": {
+              "margin": "0",
+              "padding": "0",
+              "display": "-webkit-flex"
+            },
+            ".form-control": {
+              "font-size": ".9rem",
+              "border": "none",
+              "border-radius": "0",
+              "width": "100%",
+              "padding": ".3rem .5rem",
+              "background": "@inputBg",
+              "color": "@inputTextColor",
+              "&::-webkit-input-placeholder": {
+                "color": "@inputTextColor"
+              },
+              "&::-moz-placeholder": {
+                "color": "@inputTextColor"
+              },
+              "&:-moz-placeholder": {
+                "color": "@inputTextColor"
+              },
+              "&:-ms-input-placeholder": {
+                "color": "@inputTextColor"
+              }
+            },
+            ".input-group-btn .btn": {
+              "padding": "1rem 2.2rem",
+              "margin": "0 !important"
+            },
+            "@media (max-width: 991px)": {
+              ".first-column, .second-column": {
+                "padding-bottom": "2rem"
+              },
+              ".mbr-form .row": {
+                "-webkit-justify-content": "center",
+                "justify-content": "center"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".first-column, .second-column, .third-column": {
+                "text-align": "center"
+              },
+              ".input-group-btn .btn": {
+                "padding": ".6rem 1rem !important"
+              }
+            },
+            ".mbr-section-subtitle, .icons-wrapper": {
+              "color": "#2955f9",
+              "text-align": "left"
+            },
+            ".mbr-section-title, .icons-wrapper": {
+              "color": "#cccccc",
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "text-align": "center"
+            }
+          },
+          "_name": "footer1",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" global mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <select title=\"Columns Count\" name=\"columnsCount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n        </select>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" condition=\"columnsCount >= 2\">\n        <input type=\"range\" inline title=\"Icons Count\" name=\"iconsCount\" min=\"1\" max=\"6\" step=\"1\" value=\"1\" condition=\"showIcons &amp;&amp; columnsCount >= 2\">\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#232323\" condition=\"showIcons &amp;&amp; columnsCount >= 2\">\n        <input type=\"color\" title=\"Icons Hover Color\" name=\"iconsHoverColor\" value=\"#878787\" condition=\"showIcons &amp;&amp; columnsCount >= 2\">\n        <input type=\"checkbox\" title=\"Show Form\" name=\"showForm\" condition=\"columnsCount == 3\" checked>\n        <input type=\"color\" title=\"Input BG Color\" name=\"inputBg\" value=\"#000000\" condition=\"showForm && columnsCount == 3\">\n        <input type=\"color\" title=\"Input Text Color\" name=\"inputTextColor\" value=\"#d8d7d7\" condition=\"showForm && columnsCount == 3\">\n        \n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#333333\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center mbr-white\">\n            <div class=\"col-md-6 first-column\" mbr-class=\"{'col-lg-4': columnsCount == 3}\">\n                <h2 class=\"mbr-section-title mbr-fonts-style\" mbr-class=\"{'pb-4': !showSubtitle,\n                                'pb-2': showSubtitle}\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Phone / watsapp</h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style mbr-lighter\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\"></h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                    +34 620 72 33 24\n                </p>\n            </div>\n            <div class=\"col-md-6 second-column\" mbr-class=\"{'col-lg-4': columnsCount == 3}\" mbr-if=\"columnsCount >= 2\">\n                <h2 class=\"mbr-section-title mbr-fonts-style\" mbr-class=\"{'pb-4': !showSubtitle,\n                                'pb-2': showSubtitle}\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .icons-wrapper\">&nbsp;<a href=\"https://www.facebook.com/fincafenix/\" target=\"_blank\">Facebook</a><br><a href=\"https://www.facebook.com/fincafenix/\" target=\"_blank\"><br></a><br>\n                </h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style mbr-lighter\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle, .icons-wrapper\"><b><i>\n                    <a href=\"https://www.facebook.com/fincafenix/\" target=\"_blank\">FaceBook</a></i></b></h3>\n                <div class=\"icons-wrapper\" mbr-if=\"showIcons\">\n                    <ul>\n                        <li>\n                            <a class=\"icon-transition\" href=\"https://www.facebook.com/fincafenix/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont socicon-facebook socicon\"></span>\n                            </a>\n                        </li>\n                        <li mbr-if=\"iconsCount > 1\">\n                            <a class=\"icon-transition\" href=\"#\">\n                                <span mbr-icon class=\"mbr-iconfont socicon-twitter socicon\"></span>\n                            </a>\n                        </li>\n                        <li mbr-if=\"iconsCount > 2\">\n                            <a class=\"icon-transition\" href=\"#\">\n                                <span mbr-icon class=\"mbr-iconfont socicon-youtube socicon\"></span>\n                            </a>\n                        </li>\n                        <li mbr-if=\"iconsCount > 3\">\n                            <a class=\"icon-transition\" href=\"#\">\n                                <span mbr-icon class=\"mbr-iconfont socicon-instagram socicon\"></span>\n                            </a>\n                        </li>\n                        <li mbr-if=\"iconsCount > 4\">\n                            <a class=\"icon-transition\" href=\"#\">\n                                <span mbr-icon class=\"mbr-iconfont socicon-behance socicon\"></span>\n                            </a>\n                        </li>\n                        <li mbr-if=\"iconsCount > 5\">\n                            <a class=\"icon-transition\" href=\"#\">\n                                <span mbr-icon class=\"mbr-iconfont socicon-behance socicon\"></span>\n                            </a>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"col-md-7 col-lg-4 third-column\" mbr-if=\"columnsCount == 3\">\n                <h2 class=\"mbr-section-title mbr-fonts-style\" mbr-class=\"{'pb-4': !showSubtitle,\n                                'pb-2': showSubtitle}\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .icons-wrapper\">\n                    Our Newsletter\n                </h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style mbr-lighter\" mbr-theme-style=\"display-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle, .icons-wrapper\">\n                    SIGN UP FOR SPECIAL OFFERS\n                </h3>\n                <div mbr-form class=\"form1 px-3\" mbr-if=\"showForm\">\n                    <!---Formbuilder Form--->\n                    <form action name=\"My Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\">\n                        <div class=\"row\">\n                            <div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Thanks for filling out the form!</div>\n                            <div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\"></div>\n                        </div>\n                        <div class=\"dragArea row\">\n                            <div class=\"form-group col\" data-for=\"email\">\n                                <input type=\"text\" name=\"email\" placeholder=\"E-mail\" data-form-field=\"E-mail\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\">\n                            </div>\n                            <div class=\"col-auto  input-group-btn\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrBtnLink,-mbrBtnAdd\">\n                                <a type=\"submit\" class=\"btn btn-lg btn-primary\">SUBSCRIBE</a>\n                            </div>\n                        </div>\n                    </form><!---Formbuilder Form--->\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rzMi9iV35M",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": false,
+          "_params": {},
+          "_anchor": "footer1-6q"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            }
+          },
+          "_name": "footer2",
+          "_customHTML": "<section class=\"footer2\" group=\"Footers\" global once=\"footer\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                    © Copyright 2020 &nbsp;- All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rzMi9GHrgW",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footer",
+          "_params": {},
+          "_anchor": "footer2-6r"
+        },
+        {
+          "alias": "mobirise4-blocks/components",
+          "_isSecondary": true,
+          "typeCompatible": "type",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-gallery-filter": {
+              "padding-top": "0px",
+              "padding-bottom": "0px"
+            },
+            ".container": {
+              "padding": "0"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".icon-focus": {
+              "display": "none"
+            },
+            ".btn[class*=-outline]": {
+              "border": "none!important",
+              "padding": "1rem 1rem",
+              "position": "relative",
+              "background": "transparent!important",
+              "color": "lighten(contrast(@bgColor), 50%) !important",
+              "font-weight": "400",
+              "box-shadow": "none !important",
+              "&:hover, &:active": {
+                "background": "transparent!important"
+              }
+            },
+            "li:hover, li:active, li.active": {
+              ".btn-primary-outline": {
+                "color": "@primaryColor !important"
+              },
+              ".btn-secondary-outline": {
+                "color": "@secondaryColor !important"
+              },
+              ".btn-info-outline": {
+                "color": "@infoColor !important"
+              },
+              ".btn-warning-outline": {
+                "color": "@warningColor !important"
+              },
+              ".btn-white-outline": {
+                "color": "#ffffff !important"
+              },
+              ".btn-black-outline": {
+                "color": "#000000 !important"
+              },
+              ".btn-success-outline": {
+                "color": "@successColor !important"
+              },
+              ".btn-danger-outline": {
+                "color": "@dangerColor !important"
+              }
+            },
+            "li": {
+              "position": "relative"
+            },
+            "li:not(:last-child):after": {
+              "content": "''",
+              "position": "absolute",
+              "height": "24px",
+              "width": "1px",
+              "right": "6px",
+              "top": "50%",
+              "background": "lighten(contrast(@bgColor), 82.7%) !important",
+              "transform": "rotate(35deg) translateY(-59%)"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              }
+            },
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
+              }
+            },
+            ".btn": {
+              "font-family": "@mainFont !important"
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "flex",
+              "width": "100%",
+              "bottom": "0",
+              "height": "100%",
+              "padding": "2rem",
+              "color": "#fff",
+              "z-index": "2",
+              "justify-content": "center",
+              "align-items": "flex-end",
+              "transition": "all 0.3s",
+              "opacity": "0",
+              "&:hover": {
+                "opacity": "1"
+              },
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                }
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".btn[class*=\"-outline\"]": {
+                "padding": "0rem 1rem",
+                "margin": "0!important"
+              }
+            }
+          },
+          "_name": "extGallery7",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"0\"></div>\n    </div>\n\n</section>",
+          "_cid": "rRIetByQGM",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan35-2000x1401.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan35-2000x1401-800x560.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan34-2000x1388.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan34-2000x1388-800x555.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan33-2000x1412.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan33-2000x1412-800x565.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan32-1780x1168.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan32-1780x1168-800x525.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan31-1681x2260.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan31-1681x2260-800x1076.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan30-1724x2560.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan30-1724x2560-800x1188.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan29-1720x1276.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan29-1720x1276-800x593.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan28-1712x2524.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan28-1712x2524-800x1179.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan27-1632x2396.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan27-1632x2396-800x1175.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan26-1628x2396.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan26-1628x2396-800x1177.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan25-1632x2384.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan25-1632x2384-800x1169.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan24-2000x721.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan24-2000x721-800x288.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan23-2000x721.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan23-2000x721-800x288.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan22-2000x715.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan22-2000x715-800x286.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan21-1756x1176.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan21-1756x1176-800x536.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan20-1776x1176.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan20-1776x1176-800x530.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan19-1184x872.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan19-1184x872-800x589.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan18-1188x876.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan18-1188x876-800x590.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan17-1184x856.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan17-1184x856-800x572.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan16-1748x1160.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan16-1748x1160-800x531.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan15-1129x1756.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan15-1129x1756-800x1244.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan14-1112x1760.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan14-1112x1760-800x1266.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan13-2000x1365.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan13-2000x1365-800x546.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan12-1976x1364.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan12-1976x1364-800x552.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan11-1868x2788.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan11-1868x2788-800x1194.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan-10-1768x1175.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-10-1768x1175-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan9-1628x2396.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan9-1628x2396-800x1177.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan8-1608x1196.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan8-1608x1196-800x595.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan7-1616x1192.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan7-1616x1192-800x590.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan6-1572x1104.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan6-1572x1104-800x562.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan5-1616x1172.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan5-1616x1172-800x580.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan4-1460x2068.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan4-1460x2068-800x1133.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan-3-1604x1172.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-3-1604x1172-800x585.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan1-2000x1429.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan1-2000x1429-800x572.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@ADDONS_PATH@/mobirise4-blocks/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan-2000x1376.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-2000x1376-800x550.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "extGallery7-6u"
         }
       ]
     }
